@@ -5,12 +5,12 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on my PhD
 - 🌱 I’m currently learning Network Methods
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 👯 I’m looking to collaborate on Transcriptomics Analysis
+- 🤔 I’m looking for help with understanding complex networks
+- 💬 Ask me about GPCRs
 - 📫 How to reach me: hasani.perera@ucl.ac.uk
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I am a 
 -->
