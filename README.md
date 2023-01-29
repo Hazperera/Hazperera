@@ -7,5 +7,5 @@
 - 💬 Ask me about GPCRs
 - 📫 How to reach me: hasani.perera@ucl.ac.uk
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I am a 
+- ⚡ Fun fact: I am a Singer!
 
